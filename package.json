@@ -33,7 +33,7 @@
 }
 
 
-{"web":{"client_id":"403596644508-2rfrdqeppong13omql6gsl1cran6fnls.apps.googleusercontent.com","project_id":"secret-392018","auth_uri":"https://accounts.google.com/o/oauth2/auth","token_uri":"https://oauth2.googleapis.com/token","auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs","client_secret":"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","redirect_uris":["http://localhost:3000"],"javascript_origins":["http://localhost:3000"]}}
+
 
 
 
