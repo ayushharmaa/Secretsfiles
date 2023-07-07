@@ -8,11 +8,9 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node app.js",
-{"web":{"client_id":"403596644508-2rfrdqeppong13omql6gsl1cran6fnls.apps.googleusercontent.com","project_id":"secret-392018","auth_uri":"https://accounts.google.com/o/oauth2/auth","token_uri":"https://oauth2.googleapis.com/token","auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs","client_secret":"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","redirect_uris":["http://localhost:3000"],"javascript_origins":["http://localhost:3000"]}}
-
-    
-  },
+    }
+  
+  ,
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -23,8 +21,8 @@
     "ejs": "^3.1.9",
     "express": "^4.18.2",
     "express-session": "^1.17.3",
-    "md5": "^2.3.0",
-    "mongoose": "^6.10.8",
+    "lodash": "^4.17.21",
+    "mongoose": "^7.3.1",
     "mongoose-encryption": "^2.1.2",
     "mongoose-findorcreate": "^4.0.0",
     "passport": "^0.6.0",
@@ -36,5 +34,7 @@
 
 
 {"web":{"client_id":"403596644508-2rfrdqeppong13omql6gsl1cran6fnls.apps.googleusercontent.com","project_id":"secret-392018","auth_uri":"https://accounts.google.com/o/oauth2/auth","token_uri":"https://oauth2.googleapis.com/token","auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs","client_secret":"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","redirect_uris":["http://localhost:3000"],"javascript_origins":["http://localhost:3000"]}}
+
+
 
 
